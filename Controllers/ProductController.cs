@@ -25,7 +25,7 @@ namespace OnlineShopAspNet.Controllers
 
         public IActionResult Catalog()
         {
-            return View();
+			return View();
         }
 
     }
